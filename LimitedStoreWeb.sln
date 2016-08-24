@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitedStoreWeb", "LimitedStoreWeb\LimitedStoreWeb.csproj", "{F67E186D-548E-44BF-8283-7751B89061B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitedStoreWeb.Tests", "LimitedStoreWeb.Tests\LimitedStoreWeb.Tests.csproj", "{8DA0DF88-E25A-4C7A-88BB-DB1A7441E96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67E186D-548E-44BF-8283-7751B89061B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67E186D-548E-44BF-8283-7751B89061B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67E186D-548E-44BF-8283-7751B89061B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67E186D-548E-44BF-8283-7751B89061B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA0DF88-E25A-4C7A-88BB-DB1A7441E96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA0DF88-E25A-4C7A-88BB-DB1A7441E96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA0DF88-E25A-4C7A-88BB-DB1A7441E96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA0DF88-E25A-4C7A-88BB-DB1A7441E96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
